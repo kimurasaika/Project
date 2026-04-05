@@ -1,0 +1,4 @@
+All version 
+https://www.kaggle.com/code/phatrapolphatr/chest-x-ray-lung-segmentation-and-tuberculosis
+
+
